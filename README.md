@@ -5,9 +5,9 @@ Repo con la informacion de las presentaciones realizadas
 
 ### Código en Movimiento: Encuentro Presencial sobre Isolates y DevOps con Flutter
 
-- Isolates power, James Cardona:
-	- [Slides]()
-	- [Repo with examples]()
+- Isolates power, [James Cardona](https://github.com/jamescardona11):
+	- [Slides](slides/decoding-isolates.pdf)
+	- [Repo with examples](https://github.com/jamescardona11/isolates)
 
 - Fluir con Flutter: Dominando DevOps en el Mundo móvil, Andres Londoño:
 	- [Slides]()
