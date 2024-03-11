@@ -23,3 +23,9 @@ Repo con la informacion de las presentaciones realizadas
 
 - Fabian Reyes Muñoz:
 	- [Slides](slides/Ciberseguridad%20en%20el%20desarrollo%20mobile.pdf)
+
+
+### DevOps para Mobile Development
+
+- Andrés Londoño:
+	- [Slides](slides/DevOps_for_Mobile_Development.pdf)
