@@ -3,6 +3,11 @@
 # Flutter Medellín Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Flutter Chrome Extension
+- Flutter Chrome Extension , [James Cardona](https://github.com/jamescardona11):
+	- [Slides](slides/chrome_extension.pdf)
+	- [Repo with examples](https://github.com/jamescardona11/flutter_chrome_extension_demo)
+
 ### Código en Movimiento: Encuentro Presencial sobre Isolates y DevOps con Flutter
 
 - Isolates power, [James Cardona](https://github.com/jamescardona11):
@@ -23,8 +28,3 @@ Repo con la informacion de las presentaciones realizadas
 
 - Fabian Reyes Muñoz:
 	- [Slides](slides/Ciberseguridad%20en%20el%20desarrollo%20mobile.pdf)
-
-### Flutter Chrome Extension
-- Isolates power, [James Cardona](https://github.com/jamescardona11):
-	- [Slides](slides/chrome_extension.pdf)
-	- [Repo with examples](https://github.com/jamescardona11/flutter_chrome_extension_demo)
