@@ -3,10 +3,14 @@
 # Flutter Medellín Meetup
 Repo con la informacion de las presentaciones realizadas
 
-### Flutter Chrome Extension
-- Flutter Chrome Extension , [James Cardona](https://github.com/jamescardona11):
+### Flutter Chrome Extension, Video Player
+- Flutter Chrome Extension, [James Cardona](https://github.com/jamescardona11):
+	- [Video](https://www.youtube.com/watch?v=vxPSOp7PiA4)
 	- [Slides](slides/chrome_extension.pdf)
 	- [Repo with examples](https://github.com/jamescardona11/flutter_chrome_extension_demo)
+ - Flutter Video Player, Juan Cano:
+	- [Video](https://youtu.be/vxPSOp7PiA4?t=3393)
+	- [Slides](https://docs.google.com/presentation/d/1HDUjDbkESa7-8tUHVvhya3cQRmhiOYwjq7_f7PeLTKo/edit?pli=1#slide=id.g1ff3273d402_0_0)
 
 ### Código en Movimiento: Encuentro Presencial sobre Isolates y DevOps con Flutter
 
